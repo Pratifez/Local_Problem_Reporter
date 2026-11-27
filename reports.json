@@ -1,0 +1,1012 @@
+[
+  {
+    "id": 1,
+    "date": "2026-11-26 14:37",
+    "title": "Water problem",
+    "category": "Water Supply / Leak",
+    "location": "Mid-Baneshwor, Kathmandu",
+    "priority": "Low",
+    "description": "Water is not coming regularly. Please solve this problem.",
+    "status": "Resolved"
+  },
+  {
+    "id": 2,
+    "date": "2026-11-27 10:40",
+    "title": "Road damage",
+    "category": "Road / Pothole",
+    "location": "New Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "The road is damaged and needs immediate repair.",
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "date": "2026-11-26 09:15",
+    "title": "Garbage problem",
+    "category": "Waste Management",
+    "location": "Koteshwor, Kathmandu",
+    "priority": "Medium",
+    "description": "Garbage has not been collected for several days.",
+    "status": "In Progress"
+  },
+  {
+    "id": 4,
+    "date": "2026-11-26 11:20",
+    "title": "Street light not working",
+    "category": "Street Light / Electricity",
+    "location": "Tinkune, Kathmandu",
+    "priority": "Medium",
+    "description": "The street light is not working at night.",
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "date": "2026-11-26 12:30",
+    "title": "Drainage problem",
+    "category": "Drainage / Sewer",
+    "location": "Shantinagar, Kathmandu",
+    "priority": "High",
+    "description": "The drainage is blocked and dirty water is overflowing.",
+    "status": "Resolved"
+  },
+  {
+    "id": 6,
+    "date": "2026-11-26 13:45",
+    "title": "Broken footpath",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Minbhawan, Kathmandu",
+    "priority": "Low",
+    "description": "The footpath is damaged and needs repair.",
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "date": "2026-11-26 15:10",
+    "title": "Noise pollution",
+    "category": "Noise / Public Disturbance",
+    "location": "Sinamangal, Kathmandu",
+    "priority": "Medium",
+    "description": "Loud noise is disturbing people in the neighborhood.",
+    "status": "In Progress"
+  },
+  {
+    "id": 8,
+    "date": "2026-11-26 16:25",
+    "title": "Stray dogs",
+    "category": "Animal Management",
+    "location": "Maitidevi, Kathmandu",
+    "priority": "Medium",
+    "description": "Many stray dogs are creating problems for pedestrians.",
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "date": "2026-11-26 08:50",
+    "title": "Water pipe leakage",
+    "category": "Water Supply / Leak",
+    "location": "Old Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "A water pipe is leaking and wasting clean water.",
+    "status": "In Progress"
+  },
+  {
+    "id": 10,
+    "date": "2026-11-26 17:30",
+    "title": "Traffic congestion",
+    "category": "Traffic / Road Safety",
+    "location": "Gaushala, Kathmandu",
+    "priority": "High",
+    "description": "Heavy traffic is causing problems for commuters.",
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "date": "2026-11-26 10:15",
+    "title": "Open manhole",
+    "category": "Drainage / Sewer",
+    "location": "Buddhanagar, Kathmandu",
+    "priority": "High",
+    "description": "An uncovered manhole is dangerous for pedestrians.",
+    "status": "In Progress"
+  },
+  {
+    "id": 12,
+    "date": "2026-11-26 14:20",
+    "title": "Damaged road sign",
+    "category": "Road / Public Infrastructure",
+    "location": "Dillibazar, Kathmandu",
+    "priority": "Low",
+    "description": "A damaged road sign needs replacement.",
+    "status": "Resolved"
+  },
+  {
+    "id": 13,
+    "date": "2026-11-26 09:40",
+    "title": "Illegal garbage dumping",
+    "category": "Waste Management",
+    "location": "Anamnagar, Kathmandu",
+    "priority": "Medium",
+    "description": "People are dumping garbage on the roadside.",
+    "status": "Open"
+  },
+  {
+    "id": 14,
+    "date": "2026-11-26 11:55",
+    "title": "Public tap damaged",
+    "category": "Water Supply / Leak",
+    "location": "Chabahil, Kathmandu",
+    "priority": "Medium",
+    "description": "The public water tap is damaged and needs maintenance.",
+    "status": "Resolved"
+  },
+  {
+    "id": 15,
+    "date": "2026-11-26 13:15",
+    "title": "Tree branches blocking road",
+    "category": "Environment / Public Safety",
+    "location": "Lazimpat, Kathmandu",
+    "priority": "Low",
+    "description": "Tree branches are blocking part of the road.",
+    "status": "Open"
+  },
+  {
+    "id": 16,
+    "date": "2026-11-26 15:40",
+    "title": "Water supply shortage",
+    "category": "Water Supply / Leak",
+    "location": "Kalanki, Kathmandu",
+    "priority": "High",
+    "description": "There is not enough water for daily household use.",
+    "status": "In Progress"
+  },
+  {
+    "id": 17,
+    "date": "2026-11-26 16:50",
+    "title": "Damaged footpath",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Putalisadak, Kathmandu",
+    "priority": "Medium",
+    "description": "The footpath is uneven and difficult to walk on.",
+    "status": "Resolved"
+  },
+  {
+    "id": 18,
+    "date": "2026-11-26 08:30",
+    "title": "Street light issue",
+    "category": "Street Light / Electricity",
+    "location": "Boudha, Kathmandu",
+    "priority": "High",
+    "description": "The street is dark because the lights are not working.",
+    "status": "Open"
+  },
+  {
+    "id": 19,
+    "date": "2026-11-26 12:10",
+    "title": "Blocked drainage",
+    "category": "Drainage / Sewer",
+    "location": "Kalimati, Kathmandu",
+    "priority": "Medium",
+    "description": "The drainage system is blocked with waste.",
+    "status": "In Progress"
+  },
+  {
+    "id": 20,
+    "date": "2026-11-26 17:45",
+    "title": "Road potholes",
+    "category": "Road / Pothole",
+    "location": "Teku, Kathmandu",
+    "priority": "High",
+    "description": "Large potholes are making the road unsafe.",
+    "status": "Resolved"
+  },
+  {
+    "id": 21,
+    "date": "2026-11-27 08:15",
+    "title": "Garbage collection delay",
+    "category": "Waste Management",
+    "location": "Mid-Baneshwor, Kathmandu",
+    "priority": "Medium",
+    "description": "The garbage collection vehicle has not arrived.",
+    "status": "Open"
+  },
+  {
+    "id": 22,
+    "date": "2026-11-27 09:20",
+    "title": "Water leakage",
+    "category": "Water Supply / Leak",
+    "location": "New Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "Water is leaking continuously from a roadside pipe.",
+    "status": "In Progress"
+  },
+  {
+    "id": 23,
+    "date": "2026-11-27 10:30",
+    "title": "Broken street light",
+    "category": "Street Light / Electricity",
+    "location": "Koteshwor, Kathmandu",
+    "priority": "Low",
+    "description": "One of the street lights has stopped working.",
+    "status": "Resolved"
+  },
+  {
+    "id": 24,
+    "date": "2026-11-27 11:45",
+    "title": "Sewer overflow",
+    "category": "Drainage / Sewer",
+    "location": "Tinkune, Kathmandu",
+    "priority": "High",
+    "description": "Dirty water is overflowing from the sewer.",
+    "status": "Open"
+  },
+  {
+    "id": 25,
+    "date": "2026-11-27 12:50",
+    "title": "Road repair needed",
+    "category": "Road / Pothole",
+    "location": "Shantinagar, Kathmandu",
+    "priority": "Medium",
+    "description": "The road surface needs maintenance.",
+    "status": "In Progress"
+  },
+  {
+    "id": 26,
+    "date": "2026-11-27 13:25",
+    "title": "Stray animal problem",
+    "category": "Animal Management",
+    "location": "Minbhawan, Kathmandu",
+    "priority": "Low",
+    "description": "Stray animals are wandering around the neighborhood.",
+    "status": "Open"
+  },
+  {
+    "id": 27,
+    "date": "2026-11-27 14:10",
+    "title": "Loud construction noise",
+    "category": "Noise / Public Disturbance",
+    "location": "Sinamangal, Kathmandu",
+    "priority": "Medium",
+    "description": "Construction noise is disturbing nearby residents.",
+    "status": "Resolved"
+  },
+  {
+    "id": 28,
+    "date": "2026-11-27 15:35",
+    "title": "Water tap leakage",
+    "category": "Water Supply / Leak",
+    "location": "Maitidevi, Kathmandu",
+    "priority": "Low",
+    "description": "The public tap is leaking and wasting water.",
+    "status": "Open"
+  },
+  {
+    "id": 29,
+    "date": "2026-11-27 16:40",
+    "title": "Garbage on roadside",
+    "category": "Waste Management",
+    "location": "Old Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "A large amount of garbage is lying on the roadside.",
+    "status": "In Progress"
+  },
+  {
+    "id": 30,
+    "date": "2026-11-27 17:20",
+    "title": "Traffic signal problem",
+    "category": "Traffic / Road Safety",
+    "location": "Gaushala, Kathmandu",
+    "priority": "High",
+    "description": "The traffic signal is not functioning properly.",
+    "status": "Open"
+  },
+  {
+    "id": 31,
+    "date": "2026-11-27 08:45",
+    "title": "Damaged pavement",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Buddhanagar, Kathmandu",
+    "priority": "Medium",
+    "description": "The pavement is broken and needs repair.",
+    "status": "Resolved"
+  },
+  {
+    "id": 32,
+    "date": "2026-11-27 09:55",
+    "title": "Open drain",
+    "category": "Drainage / Sewer",
+    "location": "Dillibazar, Kathmandu",
+    "priority": "High",
+    "description": "An open drain is creating a safety hazard.",
+    "status": "In Progress"
+  },
+  {
+    "id": 33,
+    "date": "2026-11-27 10:50",
+    "title": "Uncollected waste",
+    "category": "Waste Management",
+    "location": "Anamnagar, Kathmandu",
+    "priority": "Low",
+    "description": "Household waste has not been collected on time.",
+    "status": "Open"
+  },
+  {
+    "id": 34,
+    "date": "2026-11-27 11:30",
+    "title": "Broken water pipe",
+    "category": "Water Supply / Leak",
+    "location": "Chabahil, Kathmandu",
+    "priority": "High",
+    "description": "A broken water pipe is flooding the street.",
+    "status": "Resolved"
+  },
+  {
+    "id": 35,
+    "date": "2026-11-27 12:40",
+    "title": "Damaged road divider",
+    "category": "Road / Public Infrastructure",
+    "location": "Lazimpat, Kathmandu",
+    "priority": "Medium",
+    "description": "The road divider is damaged and needs fixing.",
+    "status": "Open"
+  },
+  {
+    "id": 36,
+    "date": "2026-11-27 13:50",
+    "title": "Street light outage",
+    "category": "Street Light / Electricity",
+    "location": "Kalanki, Kathmandu",
+    "priority": "High",
+    "description": "Several street lights are not working.",
+    "status": "In Progress"
+  },
+  {
+    "id": 37,
+    "date": "2026-11-27 14:45",
+    "title": "Illegal dumping",
+    "category": "Waste Management",
+    "location": "Putalisadak, Kathmandu",
+    "priority": "Medium",
+    "description": "Waste is being dumped near the public walkway.",
+    "status": "Resolved"
+  },
+  {
+    "id": 38,
+    "date": "2026-11-27 15:55",
+    "title": "Roadside tree hazard",
+    "category": "Environment / Public Safety",
+    "location": "Boudha, Kathmandu",
+    "priority": "Low",
+    "description": "A tree branch may fall onto the road.",
+    "status": "Open"
+  },
+  {
+    "id": 39,
+    "date": "2026-11-27 16:35",
+    "title": "Water shortage",
+    "category": "Water Supply / Leak",
+    "location": "Kalimati, Kathmandu",
+    "priority": "High",
+    "description": "Residents are facing a shortage of drinking water.",
+    "status": "In Progress"
+  },
+  {
+    "id": 40,
+    "date": "2026-11-27 17:50",
+    "title": "Pothole complaint",
+    "category": "Road / Pothole",
+    "location": "Teku, Kathmandu",
+    "priority": "Medium",
+    "description": "A pothole is causing difficulties for vehicles.",
+    "status": "Open"
+  },
+  {
+    "id": 41,
+    "date": "2026-11-28 08:20",
+    "title": "Dirty public area",
+    "category": "Waste Management",
+    "location": "Mid-Baneshwor, Kathmandu",
+    "priority": "Low",
+    "description": "The public area needs cleaning.",
+    "status": "Resolved"
+  },
+  {
+    "id": 42,
+    "date": "2026-11-28 09:30",
+    "title": "Drain blockage",
+    "category": "Drainage / Sewer",
+    "location": "New Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "Water is accumulating because the drain is blocked.",
+    "status": "Open"
+  },
+  {
+    "id": 43,
+    "date": "2026-11-28 10:45",
+    "title": "Water supply issue",
+    "category": "Water Supply / Leak",
+    "location": "Koteshwor, Kathmandu",
+    "priority": "Medium",
+    "description": "Water supply is irregular in this neighborhood.",
+    "status": "In Progress"
+  },
+  {
+    "id": 44,
+    "date": "2026-11-28 11:50",
+    "title": "Broken footpath tiles",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Tinkune, Kathmandu",
+    "priority": "Low",
+    "description": "Footpath tiles are broken and need replacement.",
+    "status": "Open"
+  },
+  {
+    "id": 45,
+    "date": "2026-11-28 12:55",
+    "title": "Excessive noise",
+    "category": "Noise / Public Disturbance",
+    "location": "Shantinagar, Kathmandu",
+    "priority": "Medium",
+    "description": "Excessive noise is affecting people living nearby.",
+    "status": "Resolved"
+  },
+  {
+    "id": 46,
+    "date": "2026-11-28 13:40",
+    "title": "Street light damaged",
+    "category": "Street Light / Electricity",
+    "location": "Minbhawan, Kathmandu",
+    "priority": "High",
+    "description": "A damaged street light needs immediate attention.",
+    "status": "In Progress"
+  },
+  {
+    "id": 47,
+    "date": "2026-11-28 14:30",
+    "title": "Garbage pile",
+    "category": "Waste Management",
+    "location": "Sinamangal, Kathmandu",
+    "priority": "Medium",
+    "description": "Garbage is piling up near residential buildings.",
+    "status": "Open"
+  },
+  {
+    "id": 48,
+    "date": "2026-11-28 15:25",
+    "title": "Water pipe damage",
+    "category": "Water Supply / Leak",
+    "location": "Maitidevi, Kathmandu",
+    "priority": "High",
+    "description": "A damaged pipe is interrupting the water supply.",
+    "status": "Resolved"
+  },
+  {
+    "id": 49,
+    "date": "2026-11-28 16:15",
+    "title": "Roadside parking issue",
+    "category": "Traffic / Road Safety",
+    "location": "Old Baneshwor, Kathmandu",
+    "priority": "Medium",
+    "description": "Vehicles parked on the roadside are blocking traffic.",
+    "status": "Open"
+  },
+  {
+    "id": 50,
+    "date": "2026-11-28 17:35",
+    "title": "Sewer leakage",
+    "category": "Drainage / Sewer",
+    "location": "Gaushala, Kathmandu",
+    "priority": "High",
+    "description": "Sewage is leaking onto the road.",
+    "status": "In Progress"
+  },
+  {
+    "id": 51,
+    "date": "2026-11-28 08:35",
+    "title": "Stray dogs problem",
+    "category": "Animal Management",
+    "location": "Buddhanagar, Kathmandu",
+    "priority": "Low",
+    "description": "Stray dogs are creating difficulties for local residents.",
+    "status": "Open"
+  },
+  {
+    "id": 52,
+    "date": "2026-11-28 09:45",
+    "title": "Road surface damage",
+    "category": "Road / Pothole",
+    "location": "Dillibazar, Kathmandu",
+    "priority": "High",
+    "description": "The road surface is damaged and unsafe.",
+    "status": "Resolved"
+  },
+  {
+    "id": 53,
+    "date": "2026-11-28 10:55",
+    "title": "Unclean roadside",
+    "category": "Waste Management",
+    "location": "Anamnagar, Kathmandu",
+    "priority": "Medium",
+    "description": "The roadside is dirty and needs cleaning.",
+    "status": "In Progress"
+  },
+  {
+    "id": 54,
+    "date": "2026-11-28 11:40",
+    "title": "Water tap not working",
+    "category": "Water Supply / Leak",
+    "location": "Chabahil, Kathmandu",
+    "priority": "Low",
+    "description": "The public water tap has stopped working.",
+    "status": "Open"
+  },
+  {
+    "id": 55,
+    "date": "2026-11-28 12:35",
+    "title": "Blocked sewer",
+    "category": "Drainage / Sewer",
+    "location": "Lazimpat, Kathmandu",
+    "priority": "High",
+    "description": "The sewer is blocked and needs urgent cleaning.",
+    "status": "Resolved"
+  },
+  {
+    "id": 56,
+    "date": "2026-11-28 13:55",
+    "title": "Broken street lamp",
+    "category": "Street Light / Electricity",
+    "location": "Kalanki, Kathmandu",
+    "priority": "Medium",
+    "description": "The street lamp is broken and needs replacement.",
+    "status": "Open"
+  },
+  {
+    "id": 57,
+    "date": "2026-11-28 14:50",
+    "title": "Traffic problem",
+    "category": "Traffic / Road Safety",
+    "location": "Putalisadak, Kathmandu",
+    "priority": "High",
+    "description": "Traffic congestion is affecting daily transportation.",
+    "status": "In Progress"
+  },
+  {
+    "id": 58,
+    "date": "2026-11-28 15:45",
+    "title": "Damaged public walkway",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Boudha, Kathmandu",
+    "priority": "Low",
+    "description": "The public walkway is damaged and needs repair.",
+    "status": "Resolved"
+  },
+  {
+    "id": 59,
+    "date": "2026-11-28 16:30",
+    "title": "Water leakage near house",
+    "category": "Water Supply / Leak",
+    "location": "Kalimati, Kathmandu",
+    "priority": "Medium",
+    "description": "Water is leaking near residential buildings.",
+    "status": "Open"
+  },
+  {
+    "id": 60,
+    "date": "2026-11-28 17:40",
+    "title": "Tree obstruction",
+    "category": "Environment / Public Safety",
+    "location": "Teku, Kathmandu",
+    "priority": "Low",
+    "description": "Tree branches are obstructing the footpath.",
+    "status": "In Progress"
+  },
+  {
+    "id": 61,
+    "date": "2026-11-29 08:10",
+    "title": "Garbage not collected",
+    "category": "Waste Management",
+    "location": "Mid-Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "Garbage has been left uncollected for many days.",
+    "status": "Open"
+  },
+  {
+    "id": 62,
+    "date": "2026-11-29 09:25",
+    "title": "Damaged drainage cover",
+    "category": "Drainage / Sewer",
+    "location": "New Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "The drainage cover is broken and dangerous.",
+    "status": "In Progress"
+  },
+  {
+    "id": 63,
+    "date": "2026-11-29 10:35",
+    "title": "Low water pressure",
+    "category": "Water Supply / Leak",
+    "location": "Koteshwor, Kathmandu",
+    "priority": "Medium",
+    "description": "Water pressure is too low for household use.",
+    "status": "Resolved"
+  },
+  {
+    "id": 64,
+    "date": "2026-11-29 11:45",
+    "title": "Roadside garbage",
+    "category": "Waste Management",
+    "location": "Tinkune, Kathmandu",
+    "priority": "Low",
+    "description": "Garbage is scattered along the roadside.",
+    "status": "Open"
+  },
+  {
+    "id": 65,
+    "date": "2026-11-29 12:20",
+    "title": "Damaged traffic sign",
+    "category": "Road / Public Infrastructure",
+    "location": "Shantinagar, Kathmandu",
+    "priority": "Medium",
+    "description": "A traffic sign is damaged and difficult to read.",
+    "status": "Resolved"
+  },
+  {
+    "id": 66,
+    "date": "2026-11-29 13:30",
+    "title": "Loud music complaint",
+    "category": "Noise / Public Disturbance",
+    "location": "Minbhawan, Kathmandu",
+    "priority": "Low",
+    "description": "Loud music is disturbing nearby households.",
+    "status": "Open"
+  },
+  {
+    "id": 67,
+    "date": "2026-11-29 14:40",
+    "title": "Broken water valve",
+    "category": "Water Supply / Leak",
+    "location": "Sinamangal, Kathmandu",
+    "priority": "High",
+    "description": "A broken water valve is causing water wastage.",
+    "status": "In Progress"
+  },
+  {
+    "id": 68,
+    "date": "2026-11-29 15:50",
+    "title": "Footpath obstruction",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Maitidevi, Kathmandu",
+    "priority": "Medium",
+    "description": "Objects are blocking the pedestrian walkway.",
+    "status": "Resolved"
+  },
+  {
+    "id": 69,
+    "date": "2026-11-29 16:45",
+    "title": "Road flooding",
+    "category": "Drainage / Sewer",
+    "location": "Old Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "Rainwater is accumulating on the road.",
+    "status": "Open"
+  },
+  {
+    "id": 70,
+    "date": "2026-11-29 17:55",
+    "title": "Street light outage",
+    "category": "Street Light / Electricity",
+    "location": "Gaushala, Kathmandu",
+    "priority": "Medium",
+    "description": "Street lights are not functioning properly.",
+    "status": "In Progress"
+  },
+  {
+    "id": 71,
+    "date": "2026-11-29 08:40",
+    "title": "Water supply interruption",
+    "category": "Water Supply / Leak",
+    "location": "Buddhanagar, Kathmandu",
+    "priority": "High",
+    "description": "Water supply has been interrupted unexpectedly.",
+    "status": "Open"
+  },
+  {
+    "id": 72,
+    "date": "2026-11-29 09:50",
+    "title": "Road pothole",
+    "category": "Road / Pothole",
+    "location": "Dillibazar, Kathmandu",
+    "priority": "Medium",
+    "description": "A large pothole is affecting vehicles.",
+    "status": "Resolved"
+  },
+  {
+    "id": 73,
+    "date": "2026-11-29 10:40",
+    "title": "Waste disposal problem",
+    "category": "Waste Management",
+    "location": "Anamnagar, Kathmandu",
+    "priority": "High",
+    "description": "There is no proper waste disposal in the area.",
+    "status": "In Progress"
+  },
+  {
+    "id": 74,
+    "date": "2026-11-29 11:55",
+    "title": "Sewer blockage",
+    "category": "Drainage / Sewer",
+    "location": "Chabahil, Kathmandu",
+    "priority": "Medium",
+    "description": "The sewer line is blocked and needs maintenance.",
+    "status": "Open"
+  },
+  {
+    "id": 75,
+    "date": "2026-11-29 12:45",
+    "title": "Broken street light",
+    "category": "Street Light / Electricity",
+    "location": "Lazimpat, Kathmandu",
+    "priority": "Low",
+    "description": "A street light has stopped working.",
+    "status": "Resolved"
+  },
+  {
+    "id": 76,
+    "date": "2026-11-29 13:35",
+    "title": "Dangerous tree branch",
+    "category": "Environment / Public Safety",
+    "location": "Kalanki, Kathmandu",
+    "priority": "High",
+    "description": "A damaged tree branch may fall onto pedestrians.",
+    "status": "Open"
+  },
+  {
+    "id": 77,
+    "date": "2026-11-29 14:25",
+    "title": "Stray dog complaint",
+    "category": "Animal Management",
+    "location": "Putalisadak, Kathmandu",
+    "priority": "Medium",
+    "description": "Stray dogs are causing inconvenience to residents.",
+    "status": "In Progress"
+  },
+  {
+    "id": 78,
+    "date": "2026-11-29 15:15",
+    "title": "Water pipe burst",
+    "category": "Water Supply / Leak",
+    "location": "Boudha, Kathmandu",
+    "priority": "High",
+    "description": "A water pipe has burst and needs urgent repair.",
+    "status": "Resolved"
+  },
+  {
+    "id": 79,
+    "date": "2026-11-29 16:20",
+    "title": "Traffic obstruction",
+    "category": "Traffic / Road Safety",
+    "location": "Kalimati, Kathmandu",
+    "priority": "Medium",
+    "description": "An obstruction is causing traffic congestion.",
+    "status": "Open"
+  },
+  {
+    "id": 80,
+    "date": "2026-11-29 17:30",
+    "title": "Damaged public path",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Teku, Kathmandu",
+    "priority": "Low",
+    "description": "The public walking path needs maintenance.",
+    "status": "In Progress"
+  },
+  {
+    "id": 81,
+    "date": "2026-11-30 08:25",
+    "title": "Garbage overflow",
+    "category": "Waste Management",
+    "location": "Mid-Baneshwor, Kathmandu",
+    "priority": "High",
+    "description": "The garbage collection point is overflowing.",
+    "status": "Open"
+  },
+  {
+    "id": 82,
+    "date": "2026-11-30 09:35",
+    "title": "Water tap leakage",
+    "category": "Water Supply / Leak",
+    "location": "New Baneshwor, Kathmandu",
+    "priority": "Low",
+    "description": "The water tap is leaking continuously.",
+    "status": "Resolved"
+  },
+  {
+    "id": 83,
+    "date": "2026-11-30 10:25",
+    "title": "Blocked roadside drain",
+    "category": "Drainage / Sewer",
+    "location": "Koteshwor, Kathmandu",
+    "priority": "High",
+    "description": "The roadside drain is blocked with dirt and plastic.",
+    "status": "In Progress"
+  },
+  {
+    "id": 84,
+    "date": "2026-11-30 11:35",
+    "title": "Broken road surface",
+    "category": "Road / Pothole",
+    "location": "Tinkune, Kathmandu",
+    "priority": "Medium",
+    "description": "The road surface is cracked and needs repair.",
+    "status": "Open"
+  },
+  {
+    "id": 85,
+    "date": "2026-11-30 12:45",
+    "title": "Public noise complaint",
+    "category": "Noise / Public Disturbance",
+    "location": "Shantinagar, Kathmandu",
+    "priority": "Low",
+    "description": "Continuous loud noise is disturbing the neighborhood.",
+    "status": "Resolved"
+  },
+  {
+    "id": 86,
+    "date": "2026-11-30 13:55",
+    "title": "Street light failure",
+    "category": "Street Light / Electricity",
+    "location": "Minbhawan, Kathmandu",
+    "priority": "Medium",
+    "description": "The street light needs electrical maintenance.",
+    "status": "Open"
+  },
+  {
+    "id": 87,
+    "date": "2026-11-30 14:35",
+    "title": "Improper waste disposal",
+    "category": "Waste Management",
+    "location": "Sinamangal, Kathmandu",
+    "priority": "High",
+    "description": "Waste is being disposed of in an improper location.",
+    "status": "In Progress"
+  },
+  {
+    "id": 88,
+    "date": "2026-11-30 15:45",
+    "title": "Water shortage complaint",
+    "category": "Water Supply / Leak",
+    "location": "Maitidevi, Kathmandu",
+    "priority": "Medium",
+    "description": "Residents are not receiving sufficient water.",
+    "status": "Resolved"
+  },
+  {
+    "id": 89,
+    "date": "2026-11-30 16:35",
+    "title": "Damaged traffic barrier",
+    "category": "Road / Public Infrastructure",
+    "location": "Old Baneshwor, Kathmandu",
+    "priority": "Low",
+    "description": "A damaged traffic barrier needs to be replaced.",
+    "status": "Open"
+  },
+  {
+    "id": 90,
+    "date": "2026-11-30 17:45",
+    "title": "Waterlogging problem",
+    "category": "Drainage / Sewer",
+    "location": "Gaushala, Kathmandu",
+    "priority": "High",
+    "description": "Waterlogging is making the road difficult to use.",
+    "status": "In Progress"
+  },
+  {
+    "id": 91,
+    "date": "2026-11-30 08:55",
+    "title": "Stray animal issue",
+    "category": "Animal Management",
+    "location": "Buddhanagar, Kathmandu",
+    "priority": "Medium",
+    "description": "Stray animals are creating problems in the area.",
+    "status": "Open"
+  },
+  {
+    "id": 92,
+    "date": "2026-11-30 09:45",
+    "title": "Footpath damage",
+    "category": "Footpath / Public Infrastructure",
+    "location": "Dillibazar, Kathmandu",
+    "priority": "Low",
+    "description": "The footpath needs repair for pedestrian safety.",
+    "status": "Resolved"
+  },
+  {
+    "id": 93,
+    "date": "2026-11-30 10:55",
+    "title": "Roadside water leakage",
+    "category": "Water Supply / Leak",
+    "location": "Anamnagar, Kathmandu",
+    "priority": "High",
+    "description": "Water is leaking onto the road from a damaged pipe.",
+    "status": "In Progress"
+  },
+  {
+    "id": 94,
+    "date": "2026-11-30 11:50",
+    "title": "Garbage collection issue",
+    "category": "Waste Management",
+    "location": "Chabahil, Kathmandu",
+    "priority": "Medium",
+    "description": "The garbage collection service is irregular.",
+    "status": "Open"
+  },
+  {
+    "id": 95,
+    "date": "2026-11-30 12:55",
+    "title": "Damaged street lamp",
+    "category": "Street Light / Electricity",
+    "location": "Lazimpat, Kathmandu",
+    "priority": "High",
+    "description": "A street lamp is damaged and needs replacement.",
+    "status": "Resolved"
+  },
+  {
+    "id": 96,
+    "date": "2026-11-30 13:45",
+    "title": "Traffic congestion complaint",
+    "category": "Traffic / Road Safety",
+    "location": "Kalanki, Kathmandu",
+    "priority": "High",
+    "description": "Traffic congestion is causing inconvenience to the public.",
+    "status": "In Progress"
+  },
+  {
+    "id": 97,
+    "date": "2026-11-30 14:50",
+    "title": "Open drainage complaint",
+    "category": "Drainage / Sewer",
+    "location": "Putalisadak, Kathmandu",
+    "priority": "Medium",
+    "description": "The open drainage system needs proper covering.",
+    "status": "Open"
+  },
+  {
+    "id": 98,
+    "date": "2026-11-30 15:55",
+    "title": "Tree maintenance needed",
+    "category": "Environment / Public Safety",
+    "location": "Boudha, Kathmandu",
+    "priority": "Low",
+    "description": "Overgrown tree branches need trimming.",
+    "status": "Resolved"
+  },
+  {
+    "id": 99,
+    "date": "2026-11-30 16:45",
+    "title": "Water supply disruption",
+    "category": "Water Supply / Leak",
+    "location": "Kalimati, Kathmandu",
+    "priority": "High",
+    "description": "Water supply has been disrupted in the neighborhood.",
+    "status": "Open"
+  },
+  {
+    "id": 100,
+    "date": "2026-11-30 17:55",
+    "title": "Road maintenance request",
+    "category": "Road / Pothole",
+    "location": "Teku, Kathmandu",
+    "priority": "Medium",
+    "description": "The road needs maintenance to improve public safety.",
+    "status": "In Progress"
+  },
+  {
+    "id": 101,
+    "date": "2026-11-27 11:09",
+    "title": "someone is stalking me",
+    "category": "Public Safety",
+    "location": "pratik home",
+    "priority": "High",
+    "description": "someone is following me i am a very very beautiful lady bthats why he is following me",
+    "status": "Open"
+  }
+]
